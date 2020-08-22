@@ -1,6 +1,5 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/docker-images/master/readme/docker-images.png"></p>
 
-# Docker-Images
 Custom security focused images accessible via VNC, RDP or web. The images were customized with a minimal GUI and different settings to support the remote access. 
 
 ## Kali

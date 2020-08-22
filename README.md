@@ -16,6 +16,7 @@ Custom security focused images accessible via VNC, RDP or web. The images were c
 - Parrot (qeeqbox/parrot:1.0) 			5GB
 
 ## Running
+#### Kali
 ```console 
 docker run --privileged -it qeeqbox/kali:1.0
 ...
@@ -26,6 +27,27 @@ Successfully tagged qeeqbox/kali:1.0
 https://github.com/qeeqbox/docker-images
 
 Custom Kali distro accessible via VNC, RDP or web browser
+
+root pass -> EmBNjt^Zea
+-----------------------
+Username  -> xuser
+Password  -> xTk#gV8ig*
+VNC pass  -> fjw#8fAwVC
+
+http://172.17.0.2:6080/index.html
+
+```
+#### Parrot
+```console 
+docker run --privileged -it qeeqbox/parrot:1.0
+...
+...
+Successfully built 7c36ab06e878
+Successfully tagged qeeqbox/parrot:1.0
+
+https://github.com/qeeqbox/docker-images
+
+Custom Parrot OS distro accessible via VNC, RDP or web browser
 
 root pass -> EmBNjt^Zea
 -----------------------

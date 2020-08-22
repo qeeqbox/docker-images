@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/docker-images/master/readme/docker-images.png"></p>
 
 #
-[![Generic badge](https://img.shields.io/badge/dynamic/json.svg?url=https://raw.githubusercontent.com/qeeqbox/docker-images/master/info&label=version&query=$.version&colorB=blue)](https://github.com/qeeqbox/docker-images/blob/master/changes.md)
+[![Generic badge](https://img.shields.io/badge/dynamic/json.svg?url=https://raw.githubusercontent.com/qeeqbox/docker-images/master/info&label=version&query=$.version&colorB=blue)
 
 Custom security focused images accessible via VNC, RDP or web. The images were customized with a minimal GUI and different settings to support the remote access. 
 

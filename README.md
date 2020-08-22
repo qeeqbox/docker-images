@@ -19,7 +19,7 @@ docker run --privileged -it qeeqbox/kali:1.0
 Successfully built 7c36ab06e878
 Successfully tagged qeeqbox/kali:1.0
 
-https://github.com/qeeqbox/containers
+https://github.com/qeeqbox/docker-images
 
 Custom Kali distro accessible via VNC, RDP or web browser
 

@@ -67,6 +67,5 @@ locales supervisor sudo xrdp ibus ibus-mozc dbus dbus-x11 software-properties-co
 - https://github.com/BlackArch/blackarch/blob/master/COPYING
 
 ## Disclaimer\Notes
-- 
 - Do not forget to visit Kali, Parrot OS and BlackArch websites for awesome resources or leaving feedback
 - Do not use these images in deployment (These images are very larage..)

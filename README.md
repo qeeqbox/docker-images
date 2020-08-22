@@ -28,8 +28,12 @@ https://github.com/qeeqbox/docker-images
 Custom Kali distro accessible via VNC, RDP or web browser
 
 root pass -> EmBNjt^Zea
+-----------------------
+Username  -> xuser
+Password  -> xTk#gV8ig*
 VNC pass  -> fjw#8fAwVC
-VNC web   -> http://172.20.0.3:6080/index.html
+
+http://172.17.0.2:6080/index.html
 
 ```
 

@@ -40,28 +40,6 @@ Password  -> xTk#gV8ig*
 VNC pass  -> fjw#8fAwVC
 
 http://172.17.0.2:6080/index.html
-
-```
-#### Parrot
-```console 
-docker run --privileged -it qeeqbox/parrot:1.0
-...
-...
-Successfully built 7c36ab06e878
-Successfully tagged qeeqbox/parrot:1.0
-
-https://github.com/qeeqbox/docker-images
-
-Custom Parrot OS distro accessible via VNC, RDP or web browser
-
-root pass -> EmBNjt^Zea
------------------------
-Username  -> xuser
-Password  -> xTk#gV8ig*
-VNC pass  -> fjw#8fAwVC
-
-http://172.17.0.2:6080/index.html
-
 ```
 
 ## Changing resolution
@@ -92,6 +70,7 @@ locales supervisor sudo xrdp ibus ibus-mozc dbus dbus-x11 software-properties-co
 - https://docs.parrotlinux.org/
 - https://hub.docker.com/u/parrotsec
 - https://github.com/BlackArch/blackarch/blob/master/COPYING
+- https://developer.android.com/studio
 
 ## Disclaimer\Notes
 - Do not forget to visit Kali, Parrot OS and BlackArch websites for awesome resources or leaving feedback

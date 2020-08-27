@@ -16,9 +16,9 @@ Custom security focused images accessible via VNC, RDP or web. The images were c
 <img src="https://raw.githubusercontent.com/qeeqbox/docker-images/master/readme/android-tools.png" style="max-width:768px"/>
 
 ## Current builds
-- Kali (qeeqbox/kali:1.0) 				2GB 
-- Parrot (qeeqbox/parrot:1.0) 			5GB
-- Android Tools (qeeqbox/android-tools:1.0)
+- Kali (qeeqbox/kali:1.0) 				              2GB 
+- Parrot (qeeqbox/parrot:1.0) 			            5GB
+- Android Tools (qeeqbox/android-tools:1.0)     1.7GB
 
 ## Running
 #### Kali

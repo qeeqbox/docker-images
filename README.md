@@ -73,5 +73,6 @@ locales supervisor sudo xrdp ibus ibus-mozc dbus dbus-x11 software-properties-co
 - https://developer.android.com/studio
 
 ## Disclaimer\Notes
+- Do not deploy without proper configuration
+- Setup some security group rules and remove default credentials
 - Do not forget to visit Kali, Parrot OS and BlackArch websites for awesome resources or leaving feedback
-- Do not use these images in deployment (These images are very large..)

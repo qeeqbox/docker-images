@@ -23,7 +23,7 @@ Custom security focused images accessible via VNC, RDP or web. The images were c
 ## Running
 #### Kali
 ```console 
-docker run --privileged -it qeeqbox/kali:1.0
+docker run -it --cap-add=NET_ADMIN qeeqbox/kali:1.0
 ...
 ...
 Successfully built 7c36ab06e878

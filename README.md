@@ -56,7 +56,7 @@ locales supervisor sudo xrdp ibus ibus-mozc dbus dbus-x11 software-properties-co
 - Convert my own LXD images to docker images
 
 ## Official images (Not custom ones)
-- [kali](https://breakdance.github.io/breakdance/) 
+- [kali](https://www.kali.org) 
 - [Parrot OS](https://www.parrotsec.org/download/) 
 - [BlackArch](https://blackarch.org/downloads.html/) 
 
